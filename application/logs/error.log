@@ -1,0 +1,13 @@
+[15-May-2018 17:24:29 Europe/Paris] Database exception: SQLSTATE[HY000] [1049] Unknown database 'equeastre'
+[15-May-2018 17:25:03 Europe/Paris] Database exception: SQLSTATE[HY000] [1049] Unknown database 'equeastre'
+[15-May-2018 17:25:45 Europe/Paris] Database exception: SQLSTATE[HY000] [1049] Unknown database 'equeastre'
+[15-May-2018 17:28:02 Europe/Paris] Database exception: SQLSTATE[HY000] [1049] Unknown database 'equezstre'
+[15-May-2018 17:28:31 Europe/Paris] Database exception: SQLSTATE[HY000] [1049] Unknown database 'equezstre'
+[15-May-2018 17:30:15 Europe/Paris] Database exception: SQLSTATE[HY000] [1049] Unknown database 'equestr'
+[17-May-2018 14:55:32 Europe/Paris] Database exception: could not find driver
+[17-May-2018 14:56:03 Europe/Paris] Database exception: could not find driver
+[17-May-2018 14:57:28 Europe/Paris] Database exception: SQLSTATE[HY000] [1049] Unknown database 'equestrea'
+[21-May-2018 16:11:59 Europe/Paris] Database exception: SQLSTATE[HY000] [1049] Unknown database 'equestre_riheaurelien'
+[21-May-2018 16:12:29 Europe/Paris] Database exception: SQLSTATE[HY000] [1049] Unknown database 'equestre_richeaurelie'
+[22-May-2018 15:07:25 Europe/Paris] Database exception: SQLSTATE[HY000] [2002] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+

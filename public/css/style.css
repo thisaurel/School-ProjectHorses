@@ -1,0 +1,114 @@
+html, body{
+  padding: 0;
+  margin: 0;
+}
+
+
+#snow {
+  z-index           : 0;
+  position          : absolute;
+  top               : 0;
+  left              : 0;
+  width             : 100%;
+  height            : 100%;
+  background        : none;
+  background-image  : url('https://i.imgur.com/ijuh4As.png'),
+                      url('https://i.imgur.com/ijuh4As.png'),
+                      url('https://i.imgur.com/1VSXIpr.png');
+  -moz-animation    : snow 10s linear infinite;
+  -ms-animation     : snow 10s linear infinite;
+  -webkit-animation : snow 10s linear infinite;
+  animation         : snow 10s linear infinite;
+}
+
+@keyframes snow {
+  0% {
+    background-position : 0px 0px,
+                          0px 0px,
+                          0px 0px;
+  }
+
+  50% {
+    background-position : 500px 500px,
+                          100px 200px,
+                          -100px 150px;
+  }
+
+  100% {
+    background-position : 500px 1000px,
+                          200px 400px,
+                          -100px 300px;
+  }
+}
+
+@-moz-keyframes snow {
+  0% {
+    background-position : 0px 0px,
+                          0px 0px,
+                          0px 0px;
+  }
+
+  50% {
+    background-position : 500px 500px,
+                          100px 200px,
+                          -100px 150px;
+  }
+
+  100% {
+    background-position : 400px 1000px,
+                          200px 400px,
+                          100px 300px;
+  }
+}
+
+@-webkit-keyframes snow {
+  0% {
+    background-position : 0px 0px,
+                          0px 0px,
+                          0px 0px;
+  }
+
+  50% {
+    background-position : 500px 500px,
+                          100px 200px,
+                          -100px 150px;
+  }
+
+  100% {
+    background-position : 500px 1000px,
+                          200px 400px,
+                          -100px 300px;
+  }
+}
+
+@-ms-keyframes snow {
+  0% {
+    background-position : 0px 0px,
+                          0px 0px,
+                          0px 0px;
+  }
+
+  50% {
+    background-position : 500px 500px,
+                          100px 200px,
+                          -100px 150px;
+  }
+
+  100% {
+    background-position : 500px 1000px,
+                          200px 400px,
+                          -100px 300px;
+  }
+}
+
+.horse-back{
+    background-image: url(https://image.noelshack.com/fichiers/2018/17/2/1524580580-horse.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.horse-header{
+  background-position-y: -400px;
+  background-image: url(https://i.imgur.com/KZy87ux.jpg);
+  background-repeat: no-repeat;
+}
